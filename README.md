@@ -18,11 +18,11 @@ This Python program predicts compound properties such as molecular formula and e
 
 ```bash
 git clone https://github.com/yourusername/compound-property-prediction.git
-
+```
 2. Install the required libraries using pip:
-
+```bash
 pip install pandas scikit-learn tensorflow mysql-connector-python
-
+```
 ### Usage
 
 1. Set up a MySQL database with the required data. Update the database connection details (e.g., `user`, `password`, `host`, `database`) in the `cnx` object in the `data.py` file.
