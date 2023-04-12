@@ -25,11 +25,11 @@ pip install pandas scikit-learn tensorflow mysql-connector-python
 ```
 ### Usage
 
-1. Set up a MySQL database with the required data. Update the database connection details (e.g., `user`, `password`, `host`, `database`) in the `cnx` object in the `data.py` file.
+1. Set up a MySQL database with the required data. Update the database connection details (e.g., `user`, `password`, `host`, `database`) in the `cnx` object in the `main.py` file.
 2. Run the `main.py` file to run the program.
 
 ### Customization
-You can customize the model architecture, hyperparameters, and other settings by modifying the code in the `train.py` file. You can also update the preprocessing steps in the `preprocess.py` file according to your specific requirements.
+You can customize the model architecture, hyperparameters, and other settings by modifying the code in the `main.py` file. You can also update the preprocessing steps in the `main.py` file according to your specific requirements.
 
 ### Contributing
 If you would like to contribute to this project, please follow the standard GitHub fork and pull request workflow.
