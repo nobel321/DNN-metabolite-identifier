@@ -2,6 +2,8 @@
 
 This Python program predicts compound properties such as molecular formula and exact mass using a Deep Neural Network (DNN) algorithm. The program retrieves data from a MySQL database, preprocesses it, trains a DNN model, and then uses the trained model to make predictions on new data.
 
+Article Explanation: https://medium.com/@opemipo404/identifying-metabolites-with-deep-neural-networks-556e8c61ebb8
+
 ## Getting Started
 
 ### Prerequisites
